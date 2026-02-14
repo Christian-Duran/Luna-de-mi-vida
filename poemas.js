@@ -7,7 +7,7 @@ const poemas = [
     },
     {
         fecha: "13 Noviembre 2025",
-        titulo: "Cuando el amor no se busca",
+        titulo: "Simplemente Tú",
         imagen: "imagenes/flores.jpeg",
         contenido: "Algo dentro de mí recórdo cómo se siente estar vivo. No fue magia, fue conexión, no fue destino, fue presencia. Me enamoré de la calma que se siente cuando ya no hay miedo, de la paz que llega cuando dejas de buscar y simplemente te dejas encontrar. Me enamoré sin planearlo, sin aviso, sin prisa, y a veces lo más bonito no se planea se siente. No todos los amores llegan gritando algunos llegan en silencio y llegan para quedarse."
     },
@@ -24,3 +24,4 @@ const poemas = [
         contenido: "A veces me detengo a pensar en cómo sería mi vida si no te hubiera conocido, y la verdad... no puedo imaginarlo. Porque desde que llegaste, todo cambió. No hablo de grandes cosas, sino de detalles pequeños que hacen la diferencia: tu voz en mi cabeza cuando necesito calma, tu forma de mirar el mundo, o esa paz que me da simplemente saber que existes. No sé si algún día pueda explicarte lo mucho que significas para mí, pero si sé que cada dia quiero demostrarlo, de una forma u otra, con palabras o silencios, con presencia o distancia. Gracias por ser tú, con todo lo que eres, incluso con lo que no sabes que eres para mí."
     }
 ];
+
