@@ -1,0 +1,93 @@
+/* body {
+    font-family: 'Georgia', serif;
+    background: #fff0f5;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #c2185b;
+} */
+
+body {
+    font-family: 'Georgia', serif;
+    /*background: #f1f1f6;    gris lavanda muy suave */
+    background: #e9e6f4;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #4b3f72;   /* morado elegante */
+}
+
+
+.poema1 {
+    background: white;
+    padding: 20px;
+    margin: 30px auto;
+    width: 60%;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+} 
+
+.poema {
+    background: white;
+    padding: 25px;
+    margin: 40px auto;
+    width: 90%;
+    max-width: 500px;   /* 🔹 limita el ancho máximo */
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+
+small {
+    color: gray;
+}
+
+p {
+    margin-top: 15px;
+    line-height: 1.6;
+}
+
+.imagen-poema1 {
+    width: 300px;      /* ancho fijo */
+    height: 410px;     /* alto fijo */
+    object-fit: cover; /* recorta sin deformar */
+    display: block;
+    margin: 20px auto 25px auto;
+    border-radius: 12px;
+}
+
+.imagen-poema {
+    width: 100%;          /* ocupa el ancho disponible */
+    max-width: 300px;     /* pero no más de 300px */
+    height: auto;         /* mantiene proporción */
+    display: block;
+    margin: 20px auto 25px auto;
+    border-radius: 12px;
+}
+
+.imagen-portada {
+    width: 220px;      /* 🔹 cambia aquí el ancho */
+    height: 220px;     /* 🔹 cambia aquí la altura */
+    object-fit: cover; /* recorta sin deformar */
+    display: block;
+    margin: 30px auto 70px auto;
+    border-radius: 18px;
+    opacity: 0;
+    animation: aparecerSuave 2s ease forwards;
+}
+
+@keyframes aparecerSuave {
+    0% {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
