@@ -22,6 +22,13 @@ const poemas = [
         titulo: "Qué bonito se volvió mi mundo desde que llegaste",
         imagen: "imagenes/lirio1.png",
         contenido: "A veces me detengo a pensar en cómo sería mi vida si no te hubiera conocido, y la verdad... no puedo imaginarlo. Porque desde que llegaste, todo cambió. No hablo de grandes cosas, sino de detalles pequeños que hacen la diferencia: tu voz en mi cabeza cuando necesito calma, tu forma de mirar el mundo, o esa paz que me da simplemente saber que existes. No sé si algún día pueda explicarte lo mucho que significas para mí, pero si sé que cada dia quiero demostrarlo, de una forma u otra, con palabras o silencios, con presencia o distancia. Gracias por ser tú, con todo lo que eres, incluso con lo que no sabes que eres para mí."
+    },
+    {
+        fecha: "15 Febrero 2027",
+        titulo: "Como querer tocar una estrella",
+        imagen: "imagenes/estrellafugaz.gif", 
+        contenido: "Sé que te amo porque, aunque no te vea, te siento. Porque estás en mi corazón de forma tranquila y constante, como algo que no se va y que siempre me acompaña. Me preguntaste el porqué quiero estar contigo, y solo puedo decirte: Kenya... sé que no soy digno d eti, pero no puedo evitar amarte. Es como querer tocar una estrella: sabes que nunca la alcanzarás, pero simplemente tienes que seguir intentándolo. Estos dos últimos años han sido maravillosos para mí; es lo más cerca que estaré de estar contigo. Por eso quiero quedarme contigo, sin condiciones, solo con lo que nace de mi corazón."
     }
 ];
+
 
