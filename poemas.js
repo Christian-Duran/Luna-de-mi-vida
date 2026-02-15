@@ -27,8 +27,9 @@ const poemas = [
         fecha: "15 Febrero 2027",
         titulo: "Como querer tocar una estrella",
         imagen: "imagenes/estrellafugaz.gif", 
-        contenido: "Sé que te amo porque, aunque no te vea, te siento. Porque estás en mi corazón de forma tranquila y constante, como algo que no se va y que siempre me acompaña. Me preguntaste el porqué quiero estar contigo, y solo puedo decirte: Kenya... sé que no soy digno d eti, pero no puedo evitar amarte. Es como querer tocar una estrella: sabes que nunca la alcanzarás, pero simplemente tienes que seguir intentándolo. Estos dos últimos años han sido maravillosos para mí; es lo más cerca que estaré de estar contigo. Por eso quiero quedarme contigo, sin condiciones, solo con lo que nace de mi corazón."
+        contenido: "Sé que te amo porque, aunque no te vea, te siento. Porque estás en mi corazón de forma tranquila y constante, como algo que no se va y que siempre me acompaña. Me preguntaste el porqué quiero estar contigo, y solo puedo decirte: Kenya... sé que no soy digno de ti, pero no puedo evitar amarte. Es como querer tocar una estrella: sabes que nunca la alcanzarás, pero simplemente tienes que seguir intentándolo. Estos dos últimos años han sido maravillosos para mí; es lo más cerca que estaré de estar contigo. Por eso quiero quedarme contigo, sin condiciones, solo con lo que nace de mi corazón."
     }
 ];
+
 
 
