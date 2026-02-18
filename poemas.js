@@ -24,12 +24,25 @@ const poemas = [
         contenido: "A veces me detengo a pensar en cómo sería mi vida si no te hubiera conocido, y la verdad... no puedo imaginarlo. Porque desde que llegaste, todo cambió. No hablo de grandes cosas, sino de detalles pequeños que hacen la diferencia: tu voz en mi cabeza cuando necesito calma, tu forma de mirar el mundo, o esa paz que me da simplemente saber que existes. No sé si algún día pueda explicarte lo mucho que significas para mí, pero si sé que cada dia quiero demostrarlo, de una forma u otra, con palabras o silencios, con presencia o distancia. Gracias por ser tú, con todo lo que eres, incluso con lo que no sabes que eres para mí."
     },
     {
-        fecha: "15 Febrero 2027",
+        fecha: "15 Febrero 2026",
         titulo: "Como querer tocar una estrella",
         imagen: "imagenes/estrellafugaz.gif", 
         contenido: "Sé que te amo porque, aunque no te vea, te siento. Porque estás en mi corazón de forma tranquila y constante, como algo que no se va y que siempre me acompaña. Me preguntaste el porqué quiero estar contigo, y solo puedo decirte: Kenya... sé que no soy digno de ti, pero no puedo evitar amarte. Es como querer tocar una estrella: sabes que nunca la alcanzarás, pero simplemente tienes que seguir intentándolo. Estos dos últimos años han sido maravillosos para mí; es lo más cerca que estaré de estar contigo. Por eso quiero quedarme contigo, sin condiciones, solo con lo que nace de mi corazón."
+    },
+    {
+        fecha: "17 Febrero 2026",
+        titulo: "Te amé sin tocarte",
+        imagen: "imagenes/osopolar.png",
+        contenido: "Nunca te miré con lujuria corazón, de tan enamorado que estoy de ti, porque mientras otros te desean con la piel, yo te deseo con el alma. Yo no sueño con tenerte en mis brazos, sueño con tenerte en mi vida. Y sé que eso ya no se lleva, que en esta época amar con pureza parece una tontería, pero yo de verdad te miro con respeto, con ternura, con esa forma de amor que ya casi nadie entiende. Mientras tú pensabas que yo quería algo de ti, yo solo quería que te quedaras. Y lo más triste es que te fuiste sin darte cuenta de que alguien alguna vez te amó sin tocarte."
+    },
+    {
+        fecha: "18 Febrero 2026",
+        titulo: "La coincidencia que cambió mi vida",
+        imagen: "imagenes/inicio.jpg",
+        contenido: "Qué increíble pensar que hubo un tiempo en el que nuestras vidas iban por caminos distintos y yo no sabía nada de tu existencia, que reías, soñabas y vivías sin que mi nombre formara parte de tu historia; y de repente, por pura casualidad, un día decidimos hablar sin imaginar que en esas primeras palabras estaba comenzando algo que cambiaría por completo la forma en que iba a ver mis días, porque desde esa conversación sentí una conexión difícil de explicar y jamás habría podido anticipar el impacto tan profundo que ibas a tener en mi vida. Hoy solo puedo agradecer a esa coincidencia perfecta que hizo que nuestros caminos se cruzaran y que tú y yo lográramos coincidir.❤️"
     }
 ];
+
 
 
 
