@@ -40,8 +40,15 @@ const poemas = [
         titulo: "La coincidencia que cambió mi vida",
         imagen: "imagenes/inicio.jpg",
         contenido: "Qué increíble pensar que hubo un tiempo en el que nuestras vidas iban por caminos distintos y yo no sabía nada de tu existencia, que reías, soñabas y vivías sin que mi nombre formara parte de tu historia; y de repente, por pura casualidad, un día decidimos hablar sin imaginar que en esas primeras palabras estaba comenzando algo que cambiaría por completo la forma en que iba a ver mis días, porque desde esa conversación sentí una conexión difícil de explicar y jamás habría podido anticipar el impacto tan profundo que ibas a tener en mi vida. Hoy solo puedo agradecer a esa coincidencia perfecta que hizo que nuestros caminos se cruzaran y que tú y yo lográramos coincidir.❤️"
+    },
+    {
+        fecha: "18 Febrero 2026",
+        titulo: "Quisiera ser él",
+        imagen: "imagenes/el.png",
+        contenido: "Quisiera ser él, el reflejo que en tus ojos enciende mares y amaneceres, la sombra que buscas cuando la noche se vuelve fría. Quisiera ser él para que tu mirada me recorra con la misma hambre con la que devoras su presencia para que tu voz tiembre cuando pronuncies mi nombre, como tiembla cuando dices el suyo. Quisiera ser él para que mi piel sea tu refugio y mis manos tu condena dulce. Para que la eternidad que guardas solo la compartas conmigo. Pero no lo soy. Y aún así me quedo. Porque incluso amarte desde lejos es mejor que no amarte en absoluto..."
     }
 ];
+
 
 
 
