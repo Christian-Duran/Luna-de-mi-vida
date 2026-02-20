@@ -46,11 +46,11 @@ const poemas = [
         titulo: "Quisiera ser él",
         imagen: "imagenes/el.png",
         contenido: "Quisiera ser él, el reflejo que en tus ojos enciende mares y amaneceres, la sombra que buscas cuando la noche se vuelve fría. Quisiera ser él para que tu mirada me recorra con la misma hambre con la que devoras su presencia para que tu voz tiemble cuando pronuncies mi nombre, como tiembla cuando dices el suyo. Quisiera ser él para que mi piel sea tu refugio y mis manos tu condena dulce. Para que la eternidad que guardas solo la compartas conmigo. Pero no lo soy. Y aún así me quedo. Porque incluso amarte desde lejos es mejor que no amarte en absoluto..."
+    },
+    {
+        fecha: "19 Febrero 2026",
+        titulo: "Te extraño, Corazón.",
+        imagen: "imagenes/tu.png",
+        contenido: "Corazón, te extraño, muero por quitarme la anguistia... de no tenerte cerca, te busco en un día largo y una noche eterna. Ajenos, ¿qué puedo hacer? Trato, pienso, observo cómo llegar a ti. Te extraño en la mente más tuya que mía, corazón."
     }
 ];
-
-
-
-
-
-
