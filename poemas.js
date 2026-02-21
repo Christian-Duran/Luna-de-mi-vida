@@ -58,6 +58,13 @@ const poemas = [
         titulo: "Moriré de nostalgia",
         imagen: "imagenes/solo.png",
         contenido: "Hoy me dio por extrañarte, por echar de menos tu dulce presencia, aunque no es cosa nueva en mí el hacerlo; extrañarte es lo único que hago a veces, pensarte y extrañarte. No sé por qué, no sé por qué tuviste que irte tan pronto. Sueño con que me hablas y me dices: volveré, juro que volveré, pero despierto y veo mi casa vacía. Te extraño y siempre te extrañaré, y al extrañarte siento que moriré, moriré de nostalgia al vivir de nuestros recuerdos juntos, ya que es lo único por lo que sigo aquí, por lo que sigo vivo. Pero algún día moriré, así como muere la noche cuando nace un nuevo día, así como mueren las estrellas consumidas en su propio fuego, así como mueren las hojas al caer el otoño. Solo dime que volverás, por favor, hazlo."
+    },
+    {
+        fecha: "21 Febrero 2026",
+        titulo: "Entre lo que sabes y lo que ignoras",
+        imagen: "imagenes/monito.png",
+        contenido: "Sabes que te quiero, pero no imaginas cuánto, sabes que te pienso, pero ignoras que te sueño, sabes que me gustas, pero no entiendes la intensidad de mi deseo, sabes que me importas, pero no concibes que eres mi todo, sabes que eres especial, pero no comprendes cuánto te admiro, sabes que te quiero, pero no sospechas que mi corazón te pertenece, al igual que este poema."
     }
 ];
+
 
