@@ -64,7 +64,14 @@ const poemas = [
         titulo: "Entre lo que sabes y lo que ignoras",
         imagen: "imagenes/monito.png",
         contenido: "Sabes que te quiero, pero no imaginas cuánto, sabes que te pienso, pero ignoras que te sueño, sabes que me gustas, pero no entiendes la intensidad de mi deseo, sabes que me importas, pero no concibes que eres mi todo, sabes que eres especial, pero no comprendes cuánto te admiro, sabes que te quiero, pero no sospechas que mi corazón te pertenece, al igual que este poema."
+    },
+    {
+        fecha: "22 Febrero 2026",
+        titulo: "Eres digna de amor",
+        imagen: "imagenes/ella.png",
+        contenido: "Y si esta vez no huyes. Y si solo por hoy respiras profundo y te preguntas qué significa confiar, y si confiar también significa quedarte. Eres digan de darte una oportunidad en el amor. Tal vez no hay nada malo con todas las personas que has intentado amar; tal vez encontrar sus defectos ha sido tu forma de protegerte. Sé que has pasado gran parte de tu vida creyendo que es más fácil estar sola, que al creer estar sola fue lo que te mantuvo a salvo. No es tu culpa que te hayan enseñado que la vulnerabilidad equivale a dolor. Esta es tu carta, tu permiso para honrar tu deseo de conexión, para tratarte con compasión por tu hiperindependencia, para empezar a mirar todo lo que amas del amor en lugar de enfocarte únicamente en todo lo que te asusta. Te ama, Iván... ❤️"
     }
 ];
+
 
 
