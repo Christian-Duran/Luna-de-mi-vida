@@ -76,8 +76,15 @@ const poemas = [
         titulo: "Amor del que se queda",
         imagen: "imagenes/manos.png",
         contenido: "¿Cuál es el sentido de salir con alguien si no es buscar a la persona con la que quieres quedarte? Hay especies que eligen una sola vez, que se quedan, que hacen del compromiso una forma de amor. Y eso... eso es algo profundamente hermoso. Es casi un estado de sueño decir: te elijo y me comprometo por el resto de mi vida. Comprometerse da miedo, sí. Pero también es una de las cosas más bellas que existen. Es decir: voy a crecer contigo, voy a aprender contigo, voy a caminar esta vida a tu lado. No porque no pueda estar solo, sino porque contigo no quiero estar sin ti. Y eso... eso es amor del que se queda."
+    },
+    {
+        fecha: "24 Febrero 2026",
+        titulo: "Palabras que no se lleva el viento",
+        imagen: "imagenes/teamo.jpg",
+        contenido: "Cuando digo que te amo, lo digo en serio, porque mis \"te amo\" son sinceros. Sé lo que significan, la magia que representan. El amor lo entrego a raudales, pero mis \"te amo\" son contados, porque comprendo el peso de sus palabras, la valentía que requiere pronunciarlas y el compromiso necesario para sostenerlas. Si digo que te amo, créeme. Soy de la idea de que el viento puede llevarse lo que sea, excepto esas hermosas palabras."
     }
 ];
+
 
 
 
