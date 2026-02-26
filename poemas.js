@@ -82,8 +82,15 @@ const poemas = [
         titulo: "Palabras que no se lleva el viento",
         imagen: "imagenes/teamo.jpg",
         contenido: "Cuando digo que te amo, lo digo en serio, porque mis \"te amo\" son sinceros. Sé lo que significan, la magia que representan. El amor lo entrego a raudales, pero mis \"te amo\" son contados, porque comprendo el peso de sus palabras, la valentía que requiere pronunciarlas y el compromiso necesario para sostenerlas. Si digo que te amo, créeme. Soy de la idea de que el viento puede llevarse lo que sea, excepto esas hermosas palabras."
+    },
+    {
+        fecha: "25 Febrero 2026",
+        titulo: "Te abrazaré tan fuerte",
+        imagen: "imagenes/abrazo.png",
+        contenido: "Un día te abrazaré tan fuerte que todas tus partes rotas volverán a pegarse en su lugar. Te abrazaré tan fuerte que entenderás por qué tuviste que pasar por el dolor, las dudas, los miedos, las rupturas y las traiciones. Te abrazaré tan fuerte que aunque tengas miedo de que te lastimen, no querrás soltarte. Te abrazaré tan fuerte que tu mente y cuerpo sabrán quedarse. No querrás huir, querrás quedarte. Te abrazaré tan fuerte que el miedo se convierta en paz y el tiempo en esperanza. Te abrazaré tan fuerte que también volverás a abrazarte a ti."
     }
 ];
+
 
 
 
