@@ -100,8 +100,15 @@ const poemas = [
         titulo: "A la distancia",
         imagen: "imagenes/saludo.png",
         contenido: "A la distancia titubeo por ti, pensando en el sabor de tus besos y el calor de tu abrazo. Me pierdo en tu presencia cautivadora, en tu cabello castaño que confundiría con las corrientes del mismo viento, ese que te estremece el cuerpo. Me pusiste a temblar en varios versos que te he escrito. Me hiciste pensar en ti sin conocerte, sin tocarte, sin besarte. A la distancia entre tu cuerpo y el mío supuse que te amaba, que antes de saber alguna sintonía de tu historia, la mía se cruzaría en tus días, con tus fracasos, tus glorias, con tu vida."
+    },
+    {
+        fecha: "28 Febrero 2026",
+        titulo: "Lo mejor que me ha pasado",
+        imagen: "imagenes/mar.jpeg",
+        contenido: "Eres mi mejor amiga, mi amor verdadero y las ganas de gritar a los cuatro vientos. Tú eres la brisa del mar, los granos de sal que se quedan en la piel al pisar la arena. Tú eres nostalgia, luna llena, cuerpo candela. Tú eres el cielo azulado, un abrazo de quien estuvo ausente. Mi vida, eres lo mejor que me ha pasado. Cuando estés a mi lado, todo el universo se quedará observando."
     }
 ];
+
 
 
 
