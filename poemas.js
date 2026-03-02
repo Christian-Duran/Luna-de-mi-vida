@@ -106,8 +106,15 @@ const poemas = [
         titulo: "Lo mejor que me ha pasado",
         imagen: "imagenes/mar.jpeg",
         contenido: "Eres mi mejor amiga, mi amor verdadero y las ganas de gritar a los cuatro vientos. Tú eres la brisa del mar, los granos de sal que se quedan en la piel al pisar la arena. Tú eres nostalgia, luna llena, cuerpo candela. Tú eres el cielo azulado, un abrazo de quien estuvo ausente. Mi vida, eres lo mejor que me ha pasado. Cuando estés a mi lado, todo el universo se quedará observando."
+    },
+    {
+        fecha: "1 Marzo 2026",
+        titulo: "Ojos de espresso",
+        imagen: "imagenes/ojoscafes.png",
+        contenido: "Tus ojos cafés. Amargos de la forma más hermosa. ¿Qué puedo decir? Soy adicto a ellos. Hay consuelo en su tono, como si el otoño viviera dentro de ellos. Cada mirada tuya es un beso de espresso. Bebo lentamente hasta sentirlo en el torrente sanguíneo, despertándome. Esos ojos tuyos son mi ritual. Son mi pecado más suave. Y cada mañana me vuelvo a enamorar de ellos."
     }
 ];
+
 
 
 
