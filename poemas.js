@@ -112,8 +112,15 @@ const poemas = [
         titulo: "Ojos de espresso",
         imagen: "imagenes/ojoscafes.png",
         contenido: "Tus ojos cafés. Amargos de la forma más hermosa. ¿Qué puedo decir? Soy adicto a ellos. Hay consuelo en su tono, como si el otoño viviera dentro de ellos. Cada mirada tuya es un beso de espresso. Bebo lentamente hasta sentirlo en el torrente sanguíneo, despertándome. Esos ojos tuyos son mi ritual. Son mi pecado más suave. Y cada mañana me vuelvo a enamorar de ellos."
+    },
+    {
+        fecha: "2 Marzo 2026",
+        titulo: "Polillas contra tu nombre",
+        imagen: "imagenes/polilla.jpg",
+        contenido: "Hay un fuego en ti que solo yo puedo ver. Lo veo cuando escribo sobre ti. Como mis palabras, como polillas indefensas, queman sus alas contra tu nombre. Lo veo cada vez que intento enjaular tu belleza en frases cuidadosas, y se rebelan contra mí. Van más allá de los márgenes para dejar una chispa en mi piel. Y aun así me inclino más cerca, como una vela que comprende su propósito, encontrando significado al entregarse a la llama. Y así me derrito en tu presencia hasta que no queda nada de mí, excepto ceniza y humo. E incluso entonces, aún encontrarás un latido en brasas, elevándose para susurrar en tus oídos. Acércate. Las llamas no me aterran."
     }
 ];
+
 
 
 
