@@ -118,8 +118,15 @@ const poemas = [
         titulo: "Polillas contra tu nombre",
         imagen: "imagenes/polilla.jpg",
         contenido: "Hay un fuego en ti que solo yo puedo ver. Lo veo cuando escribo sobre ti. Como mis palabras, como polillas indefensas, queman sus alas contra tu nombre. Lo veo cada vez que intento enjaular tu belleza en frases cuidadosas, y se rebelan contra mí. Van más allá de los márgenes para dejar una chispa en mi piel. Y aun así me inclino más cerca, como una vela que comprende su propósito, encontrando significado al entregarse a la llama. Y así me derrito en tu presencia hasta que no queda nada de mí, excepto ceniza y humo. E incluso entonces, aún encontrarás un latido en brasas, elevándose para susurrar en tus oídos. Acércate. Las llamas no me aterran."
+    },
+    {
+        fecha: "3 Marzo 2026",
+        titulo: "Permíteme ofrecerte la inmortalidad",
+        imagen: "imagenes/you.png",
+        contenido: "Dicen que si un escritor te ama, nunca morirás. Permíteme ofrecerte la inmortalidad. Déjame mostrarte cómo se siente estar envuelto en tinta y locura. Te escondería entre mis páginas, donde solo yo puedo leerte. Te mostraría lo que significa ser tanto la herida como el remedio. Verías las guerras que libras cuando tus labios rozan otros que no son los míos. Cómo cada aliento que robas parece una razón para seguir vivo. \n\nAsí que cuando te pregunten: ¿has llegado a odiarlo? Diles: ¿cómo puedo odiar a quien habita en mis párpados? \n\nY cuando te pregunten: ¿él te ama? Di: él me ama. Me ama mucho. Tanto como para escribirme en la eternidad."
     }
 ];
+
 
 
 
