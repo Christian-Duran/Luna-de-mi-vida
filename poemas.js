@@ -124,8 +124,15 @@ const poemas = [
         titulo: "Permíteme ofrecerte la inmortalidad",
         imagen: "imagenes/you.png",
         contenido: "Dicen que si un escritor te ama, nunca morirás. Permíteme ofrecerte la inmortalidad. Déjame mostrarte cómo se siente estar envuelto en tinta y locura. Te escondería entre mis páginas, donde solo yo puedo leerte. Te mostraría lo que significa ser tanto la herida como el remedio. Verías las guerras que libras cuando tus labios rozan otros que no son los míos. Cómo cada aliento que robas parece una razón para seguir vivo. \n\nAsí que cuando te pregunten: ¿has llegado a odiarlo? Diles: ¿cómo puedo odiar a quien habita en mis párpados? \n\nY cuando te pregunten: ¿él te ama? Di: él me ama. Me ama mucho. Tanto como para escribirme en la eternidad."
+    },
+    {
+        fecha: "4 Marzo 2026",
+        titulo: "Galaxias en tus ojos",
+        imagen: "imagenes/ojos.png",
+        contenido: "¿Para qué son las galaxias si no es para describir tus ojos? \n¿Para qué son si no para explicar la belleza grandiosa y aterradora que contienen? \n¿Para qué son si no para darle a los poetas una metáfora cuando las palabras colapsan y la tinta falla ante tu mirada? Pues, ¿qué es el lenguaje sino un intento fallido de contener esa locura en tus ojos? \nOh, corazón, si tan solo supieras cuántas constelaciones se pueden ver en tus ojos. Si tan solo supieras el caos que causa tu ausencia. \nCómo no me encuentro a mí mismo cuando no estás. \nAsí que déjame perderme en este universo de ti. \nY solo seré aquel que ha tocado galaxias y aún suplico otro vistazo de tus ojos. "
     }
 ];
+
 
 
 
