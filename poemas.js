@@ -130,8 +130,15 @@ const poemas = [
         titulo: "Galaxias en tus ojos",
         imagen: "imagenes/ojos.png",
         contenido: "¿Para qué son las galaxias si no es para describir tus ojos? \n¿Para qué son si no para explicar la belleza grandiosa y aterradora que contienen? \n¿Para qué son si no para darle a los poetas una metáfora cuando las palabras colapsan y la tinta falla ante tu mirada? Pues, ¿qué es el lenguaje sino un intento fallido de contener esa locura en tus ojos? \nOh, corazón, si tan solo supieras cuántas constelaciones se pueden ver en tus ojos. Si tan solo supieras el caos que causa tu ausencia. \nCómo no me encuentro a mí mismo cuando no estás. \nAsí que déjame perderme en este universo de ti. \nY solo seré aquel que ha tocado galaxias y aún suplico otro vistazo de tus ojos. "
+    },
+    {
+        fecha: "5 Marzo 2026",
+        titulo: "Una forma de quedarme",
+        imagen: "imagenes/ternurin.png",
+        contenido: "Quiero amarte despacio, mirándote como se mira lo que es bello sin necesidad de explicaciones. \nQuiero amarte sin máscaras, con la confianza de quien se entrega por que sabe que está a salvo. \nQuiero amarte cada día, no por costumbre, sino porque elegirte se me da tan natural como respirar. \nPorque amarte, al final, no es una forma del cuerpo, sino una forma de quedarme."
     }
 ];
+
 
 
 
