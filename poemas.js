@@ -136,8 +136,15 @@ const poemas = [
         titulo: "Una forma de quedarme",
         imagen: "imagenes/ternurin.png",
         contenido: "Quiero amarte despacio, mirándote como se mira lo que es bello sin necesidad de explicaciones. \nQuiero amarte sin máscaras, con la confianza de quien se entrega por que sabe que está a salvo. \nQuiero amarte cada día, no por costumbre, sino porque elegirte se me da tan natural como respirar. \nPorque amarte, al final, no es una forma del cuerpo, sino una forma de quedarme."
+    },
+    {
+        fecha: "6 Marzo 2026",
+        titulo: "La gravedad de ella",
+        imagen: "imagenes/plano.png",
+        contenido: "Si alguien me preguntara: \"¿Y cómo es ella?\" \nYo respondería: \nElla es como un cúmulo de galaxias: una presencia masiva, compleja y llena de energía. Es irresistible por su propia gravedad; de esas que emiten mucha luz a pesar de su oscuridad. \nParte de su esencia es invisible, profunda y difícil de detectar a simple vista. Solo con los ojos del alma logras ver más allá. \nEs capaz de distorsionar la realidad con tan solo una sonrisa. Es una oportunidad única en la vida. \nDe esas mujeres que te hacen sentir que has ganado la lotería, que te quitan el sueño y te obligan a viajar a través del espacio-tiempo."
     }
 ];
+
 
 
 
