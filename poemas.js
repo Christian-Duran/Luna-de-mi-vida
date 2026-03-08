@@ -142,8 +142,15 @@ const poemas = [
         titulo: "La gravedad de ella",
         imagen: "imagenes/plano.png",
         contenido: "Si alguien me preguntara: \"¿Y cómo es ella?\" \nYo respondería: \nElla es como un cúmulo de galaxias: una presencia masiva, compleja y llena de energía. Es irresistible por su propia gravedad; de esas que emiten mucha luz a pesar de su oscuridad. \nParte de su esencia es invisible, profunda y difícil de detectar a simple vista. Solo con los ojos del alma logras ver más allá. \nEs capaz de distorsionar la realidad con tan solo una sonrisa. Es una oportunidad única en la vida. \nDe esas mujeres que te hacen sentir que has ganado la lotería, que te quitan el sueño y te obligan a viajar a través del espacio-tiempo."
+    },
+    {
+        fecha: "7 Marzo 2026",
+        titulo: "El abrazo que no llega",
+        imagen: "imagenes/solito.png",
+        contenido: "Te acabo de abrazar con el hambre de mis pensamientos, con las manos que no tengo y los brazos que me faltan. Ojalá hayas sentido el apretón, aunque sea como un eco lejano, como un viento que se cuela en tu piel y te susurra que te extraño."
     }
 ];
+
 
 
 
