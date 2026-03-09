@@ -148,8 +148,21 @@ const poemas = [
         titulo: "El abrazo que no llega",
         imagen: "imagenes/solito.png",
         contenido: "Te acabo de abrazar con el hambre de mis pensamientos, con las manos que no tengo y los brazos que me faltan. Ojalá hayas sentido el apretón, aunque sea como un eco lejano, como un viento que se cuela en tu piel y te susurra que te extraño."
+    },
+    {
+        fecha: "8 Marzo 2026",
+        titulo: "La verdadera fortuna",
+        imagen: "imagenes/luna3.jpeg",
+        contenido: "El hombre más afortunado \nque camina sobre esta tierra \nes aquel que encuentra el \nverdadero amor"
+    },
+    {
+        fecha: "8 Marzo 2026",
+        titulo: "La casualidad que esperaba",
+        imagen: "imagenes/casualidad.png",
+        contenido: "Lo más bonito de haber coincidido contigo es que yo no te estaba buscando. Pero te encontré en mi vida como una casualidad, una de esas casualidades que el corazón anhela. \nQuería dar toda mi atención, todo mi cariño, todo mi amor, y encontrarte fue el regalo que mi corazón siempre había deseado."
     }
 ];
+
 
 
 
