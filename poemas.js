@@ -160,8 +160,15 @@ const poemas = [
         titulo: "La casualidad que esperaba",
         imagen: "imagenes/casualidad.png",
         contenido: "Lo más bonito de haber coincidido contigo es que yo no te estaba buscando. Pero te encontré en mi vida como una casualidad, una de esas casualidades que el corazón anhela. \nQuería dar toda mi atención, todo mi cariño, todo mi amor, y encontrarte fue el regalo que mi corazón siempre había deseado."
+    },
+    {
+        fecha: "9 Marzo 2026",
+        titulo: "Segundos que se vuelven eternidades",
+        imagen: "imagenes/denji.png",
+        contenido: "¿Sabes cuánto amor siento por ti? \n¿Con qué fuerza late mi corazón cada vez que te pienso? \nTu amor ha conquistado cada parte de mis días, entretejiéndose en cada detalle. Este amor que siento no conoce límites, no escucha razones. Crece demasiado cada día, desbordándose más allá de los confines de mi pecho. \nPorque te amo de formas que el lenguaje no puede contener. Porque este amor que siento por ti deforma mi realidad. Convierte segundos de tu sonrisa en eternidades. \n\nEntonces, ¿ahora lo ves? \n\nCómo la noche se vuelve demasiado silenciosa y tus pensamientos vagan lejos de mí. \n\nPero los míos... \n\nlos míos siempre se alzarán por ti."
     }
 ];
+
 
 
 
