@@ -172,8 +172,15 @@ const poemas = [
         titulo: "Un amor que decidió quedarse",
         imagen: "imagenes/ser.png",
         contenido: "Lo que siento por ti no cabe en palabras comunes ni en gestos pequeños; es una certeza profunda que permanece incluso cuando todo cambia alrededor, una fuerza que atraviesa miedos, distancias, silencios y días difíciles, y aun así elige quedarse. \nEs algo que no depende del tiempo, ni del ánimo, ni de las circunstancias, porque nace desde un lugar tan honesto que no sabe hacer otra cosa que sostener. \nEs esa calma que aparece cuando pienso en ti, esa seguridad inexplicable de saber que, pase lo que pase, mi corazón ya encontró un sitio donde pertenecer. \nNo necesita promesas ruidosas ni demostraciones exageradas, porque vive en lo constante, en lo real, en lo que resiste cuando todo lo demás se mueve. \nY aunque el mundo dé mil vueltas, aunque cambien los caminos y las estaciones, esto que siento seguirá intacto, firme y fiel a su origen: un sentimiento tan grande, tan leal y tan verdadero que no entiende de límites, porque simplemente aprendió a existir contigo.❤️"
+    },
+    {
+        fecha: "11 Marzo 2026",
+        titulo: "Prefiero arder en esta verdad",
+        imagen: "imagenes/florenllamas.png",
+        contenido: "Tal vez sea alguien romántico, tal vez exagere mis palabras y sentimientos, pero si me lo preguntas sinceramente, te amo demasiado, como una llama intensa que prende aunque intentes apagarla. \nTe amo con un intensidad que no se esconde, que encuentra en lo pequeño un universo y convierte un gesto tuyo en el centro luminoso de mi día. \nSi eso es exagerar, lo asumo sin vergüenza; prefiero arder contigo en esta verdad que apagar lo que siento y fingir que mi corazón no sabe tu nombre."
     }
 ];
+
 
 
 
