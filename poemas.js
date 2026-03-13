@@ -178,8 +178,15 @@ const poemas = [
         titulo: "Prefiero arder en esta verdad",
         imagen: "imagenes/florenllamas.png",
         contenido: "Tal vez sea alguien romántico, tal vez exagere mis palabras y sentimientos, pero si me lo preguntas sinceramente, te amo demasiado, como una llama intensa que prende aunque intentes apagarla. \nTe amo con un intensidad que no se esconde, que encuentra en lo pequeño un universo y convierte un gesto tuyo en el centro luminoso de mi día. \nSi eso es exagerar, lo asumo sin vergüenza; prefiero arder contigo en esta verdad que apagar lo que siento y fingir que mi corazón no sabe tu nombre."
+    },
+    {
+        fecha: "12 Marzo 2026",
+        titulo: "Quiero aprender el amor contigo",
+        imagen: "imagenes/lunallena.png",
+        contenido: "Aún tengo mucho que aprender sobre el amor, \npero quiero aprenderlo contigo. \nAún tengo muchos defectos por corregir, \npero quiero corregirlos por nosotros. \nAún no alcanzo mi mejor versión, \npero quiero que seas quien la disfrute. \nAún quedan muchas cosas por vivir, \npero sé que quiero vivirlas contigo. \n\nTe amo tanto, mi luna."
     }
 ];
+
 
 
 
