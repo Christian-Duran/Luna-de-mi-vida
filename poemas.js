@@ -184,6 +184,12 @@ const poemas = [
         titulo: "Quiero aprender el amor contigo",
         imagen: "imagenes/lunallena.png",
         contenido: "Aún tengo mucho que aprender sobre el amor, \npero quiero aprenderlo contigo. \nAún tengo muchos defectos por corregir, \npero quiero corregirlos por nosotros. \nAún no alcanzo mi mejor versión, \npero quiero que seas quien la disfrute. \nAún quedan muchas cosas por vivir, \npero sé que quiero vivirlas contigo. \n\nTe amo tanto, mi luna."
+    },
+    {
+        fecha: "13 de Marzo 2026",
+        titulo: "La sospecha del universo",
+        imagen: "imagenes/galaxia.png",
+        contenido: "Tengo la sospecha de que en el corazón te pusieron una estrella, que en los labios te sembraron un sol, que de ojos te dieron dos lunas, y que de tus brazos nace el amor. \nQue el cielo te dio la frescura y el mar te regaló su voz, que el tiempo te quitó la prisa y el río te hizo canción. \nQue la música te hizo su musa, y que por ti la poesía nació. Y también que, cuando Dios creó el mundo, fue en ti que se inspiró. \nTal vez por eso, al mirarte, el universo se queda en silencio, porque en ti se esconden los secrestos del amor, la vida y el tiempo. "
     }
 ];
 
