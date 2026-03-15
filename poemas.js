@@ -196,6 +196,12 @@ const poemas = [
         titulo: "La envidia de las rosas",
         imagen: "imagenes/mirosa.png",
         contenido: "A veces me pregunto si las rosas te envidian. \nSi piensan que es injusto que florezcas sin espinas, cómo robas a sus pretendientes con un solo vaivén y dejas a sus pétalos preguntándose qué significa verdaderamente la belleza. \nLo veo cuando paseo por los jardines y casi las oigo gritarte: \n\"¡Deja luz para nosotras!\" \nY entonces solo deseo tomarte entre mis manos y esconderte de las horas envidiosas. \nPero esta belleza que portas es indómita, inalterable. No puede ponerse en un jarrón. \nPor eso te envidian. \nTu belleza es algo que el tiempo no puede marchitar."
+    },
+    {
+        fecha: "15 Marzo 2026",
+        titulo: "Tu nombre en las estrellas",
+        imagen: "imagenes/estrellas.jpg",
+        contenido: "Si alguna vez miras al cielo y ves una estrella más brillante que las demás, recuerda que ahí dejé tu nombre. \nPorque cuando pienso en ti, hasta el universo parece quedarse pequeño. \nEres la razón por la que la noche tiene sentido y la distancia deja de doler."
     }
 ];
 
