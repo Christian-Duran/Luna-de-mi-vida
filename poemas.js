@@ -202,6 +202,12 @@ const poemas = [
         titulo: "Tu nombre en las estrellas",
         imagen: "imagenes/estrellas.jpg",
         contenido: "Si alguna vez miras al cielo y ves una estrella más brillante que las demás, recuerda que ahí dejé tu nombre. \nPorque cuando pienso en ti, hasta el universo parece quedarse pequeño. \nEres la razón por la que la noche tiene sentido y la distancia deja de doler."
+    },
+    {
+        fecha: "16 Marzo 2026",
+        titulo: "El caballero de tu corazón",
+        imagen: "imagenes/caballeroconrosas.png",
+        contenido: "Es extraño pensar que no te he visto. \nHe visto la luna nueva, pero no a ti; he visto al sol salir y ocultarse, pero nada tan bello como tu hermoso rostro. \nLas piezas de este roto corazón son tan pequeñas que podrían pasar por el ojo de una aguja. \nEscribo como si ya hubieras muerto. Sí, mi amor, porque yo también muero. \nTe extraño como el sol extrañaba a la flor, como el sol extrañaba a la flor en el más frío invierno. En vez de haber belleza a donde dirigir su luz, el corazón se endurece como el mundo helado al que tu ausencia me desterró. \nLa esperanza es mi guía; es la que me sostiene de día, y en especial en la noche. La esperanza de que, cuando desaparezcas de mi vista, no será la última vez que pueda verte. \n\nCon todo el amor que poseo, siempre tuyo..."
     }
 ];
 
