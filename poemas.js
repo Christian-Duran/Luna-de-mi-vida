@@ -208,6 +208,12 @@ const poemas = [
         titulo: "El caballero de tu corazón",
         imagen: "imagenes/caballeroconrosas.png",
         contenido: "Es extraño pensar que no te he visto. \nHe visto la luna nueva, pero no a ti; he visto al sol salir y ocultarse, pero nada tan bello como tu hermoso rostro. \nLas piezas de este roto corazón son tan pequeñas que podrían pasar por el ojo de una aguja. \nEscribo como si ya hubieras muerto. Sí, mi amor, porque yo también muero. \nTe extraño como el sol extrañaba a la flor, como el sol extrañaba a la flor en el más frío invierno. En vez de haber belleza a donde dirigir su luz, el corazón se endurece como el mundo helado al que tu ausencia me desterró. \nLa esperanza es mi guía; es la que me sostiene de día, y en especial en la noche. La esperanza de que, cuando desaparezcas de mi vista, no será la última vez que pueda verte. \n\nCon todo el amor que poseo, siempre tuyo..."
+    },
+    {
+        fecha: "17 Marzo 2026",
+        titulo: "Más que cualquier metáfora",
+        imagen: "imagenes/diosqueojos.png",
+        contenido: "A veces pienso que no lo ves... \nTu belleza trasciende los espejos. \nHay versos durmiendo en tus pestañas, y cuando parpadeas, un poema despierta y reordena mi corazón. \nEsta belleza en ti me pone celoso de todo a tu alrededor, del viento cuando roba tu aroma para perfumar su paso. \nO cuando el lenguaje intenta capturarte en párrafos, mientras yo te quiero libre, más que cualquier metáfora..."
     }
 ];
 
