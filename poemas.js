@@ -214,6 +214,12 @@ const poemas = [
         titulo: "Más que cualquier metáfora",
         imagen: "imagenes/diosqueojos.png",
         contenido: "A veces pienso que no lo ves... \nTu belleza trasciende los espejos. \nHay versos durmiendo en tus pestañas, y cuando parpadeas, un poema despierta y reordena mi corazón. \nEsta belleza en ti me pone celoso de todo a tu alrededor, del viento cuando roba tu aroma para perfumar su paso. \nO cuando el lenguaje intenta capturarte en párrafos, mientras yo te quiero libre, más que cualquier metáfora..."
+    },
+    {
+        fecha: "18 Marzo 2026",
+        titulo: "Los jardines de tu mirada",
+        imagen: "imagenes/flores.jpg",
+        contenido: "Creo que la belleza que veo en cualquier cosa es un reflejo de la belleza que hay en ti. \nY cuando la encuentro en el más mínimo detalle, comprendo lo silenciosamente radiante que debe ser tu corazón. \nCuánta belleza se esconce dentro de ti. \nCómo ahí, bajo tus párpados, encuentro los jardines secretos del paraíso."
     }
 ];
 
