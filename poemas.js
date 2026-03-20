@@ -220,6 +220,12 @@ const poemas = [
         titulo: "Los jardines de tu mirada",
         imagen: "imagenes/flores.jpg",
         contenido: "Creo que la belleza que veo en cualquier cosa es un reflejo de la belleza que hay en ti. \nY cuando la encuentro en el más mínimo detalle, comprendo lo silenciosamente radiante que debe ser tu corazón. \nCuánta belleza se esconce dentro de ti. \nCómo ahí, bajo tus párpados, encuentro los jardines secretos del paraíso."
+    },
+    {
+        fecha: "19 Marzo 2026",
+        titulo: "La mayor maravilla",
+        imagen: "imagenes/atardecer2.jpg",
+        contenido: "El mundo está lleno de maravillas, y aun así ninguna se compara contigo. \nPodría recorrer lugares asombrosos, perderme en paisajes perfectos, pero nada lograría eclipsar lo que encuentro en ti. \nEres y siempre serás la maravilla más grande de mi vida."
     }
 ];
 
