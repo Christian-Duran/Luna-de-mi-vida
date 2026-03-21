@@ -226,6 +226,12 @@ const poemas = [
         titulo: "La mayor maravilla",
         imagen: "imagenes/atardecer2.jpg",
         contenido: "El mundo está lleno de maravillas, y aun así ninguna se compara contigo. \nPodría recorrer lugares asombrosos, perderme en paisajes perfectos, pero nada lograría eclipsar lo que encuentro en ti. \nEres y siempre serás la maravilla más grande de mi vida."
+    },
+    {
+        fecha: "20 Marzo 2026",
+        titulo: "En cada canción estás tú",
+        imagen: "imagenes/snoopymusica.png",
+        contenido: "Cada canción que escucho parece llevar algo de ti. \nA veces es una melodía suave, \na veces una letra que no esperaba, \npero siempre hay una parte de ti escondida en cada nota, \ncomo si el mundo entero conspirara para recordarme que te amo."
     }
 ];
 
