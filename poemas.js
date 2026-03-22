@@ -232,6 +232,12 @@ const poemas = [
         titulo: "En cada canción estás tú",
         imagen: "imagenes/snoopymusica.png",
         contenido: "Cada canción que escucho parece llevar algo de ti. \nA veces es una melodía suave, \na veces una letra que no esperaba, \npero siempre hay una parte de ti escondida en cada nota, \ncomo si el mundo entero conspirara para recordarme que te amo."
+    },
+    {
+        fecha: "21 Marzo 2026",
+        titulo: "Entretejida en mí",
+        imagen: "imagenes/arcodeluna.png",
+        contenido: "Dime, ¿por qué veo tu rostro cada vez que miro al cielo? \n¿Por qué encuentro rastros de ti entre las estrellas? \nVeo tu hermoso rostro en todas partes, \nincluso cuando no estás conmigo. \nComo si hubieras conquistado mi mente \njunto con esto que late en mi pecho. \nNo importa a dónde mire, \nno importa lo lejos que estés, \nestás aquí, entretejida en mí. \nComo si mi alma no conociera existencia sin ti."
     }
 ];
 
