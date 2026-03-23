@@ -238,6 +238,12 @@ const poemas = [
         titulo: "Entretejida en mí",
         imagen: "imagenes/arcodeluna.png",
         contenido: "Dime, ¿por qué veo tu rostro cada vez que miro al cielo? \n¿Por qué encuentro rastros de ti entre las estrellas? \nVeo tu hermoso rostro en todas partes, \nincluso cuando no estás conmigo. \nComo si hubieras conquistado mi mente \njunto con esto que late en mi pecho. \nNo importa a dónde mire, \nno importa lo lejos que estés, \nestás aquí, entretejida en mí. \nComo si mi alma no conociera existencia sin ti."
+    },
+    {
+        fecha: "22 Marzo 2026",
+        titulo: "En la noche pienso en ti",
+        imagen: "imagenes/lunarosa.jpg",
+        contenido: "En la noche pienso en ti. \nEs mi momento favorito, el momento perfecto: \nnada interrumpe, nadie molesta, ni siquiera el pasado. \n\nEn la noche solo eres tú y los poemas, \nsolo tú y las estrellas. \n\nEn la noche pienso en ti. \nEso es lo último que hago: \ncierro los ojos, cruzo los dedos \npara tener la suerte de que, hasta en sueños, \nte encuentre a mi lado. \n\nEn la noche pienso en ti, \nporque hacerlo todo el día no es suficiente \ncuando se está enamorado."
     }
 ];
 
