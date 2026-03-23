@@ -244,6 +244,12 @@ const poemas = [
         titulo: "En la noche pienso en ti",
         imagen: "imagenes/lunarosa.jpg",
         contenido: "En la noche pienso en ti. \nEs mi momento favorito, el momento perfecto: \nnada interrumpe, nadie molesta, ni siquiera el pasado. \n\nEn la noche solo eres tú y los poemas, \nsolo tú y las estrellas. \n\nEn la noche pienso en ti. \nEso es lo último que hago: \ncierro los ojos, cruzo los dedos \npara tener la suerte de que, hasta en sueños, \nte encuentre a mi lado. \n\nEn la noche pienso en ti, \nporque hacerlo todo el día no es suficiente \ncuando se está enamorado."
+    },
+    {
+        fecha: "23 Marzo 2026",
+        titulo: "Mi alma te reconoce",
+        imagen: "imagenes/mibellagalaxia.png",
+        contenido: "Te amo. \nDe una forma que no cabe en las palabras ni en el tiempo; te amo como se ama aquello que le da sentido al universo, como se abraza la vida después de haberla esperado eternamente. \nEres el latido que sostiene mi existencia, la certeza en medio del caos, el milagro que convirtió mis días comunes en eternidades compartidas. \nSi el destino me diera a elegir mil veces, \nen cada vida y en cada mundo, volvería a encontrarte, volvería a \nelegirte, \nporque mi alma reconoce la tuya como su hogar, desde antes de saber siquiera qué era el amor."
     }
 ];
 
