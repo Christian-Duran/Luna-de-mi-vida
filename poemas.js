@@ -250,6 +250,12 @@ const poemas = [
         titulo: "Mi alma te reconoce",
         imagen: "imagenes/mibellagalaxia.png",
         contenido: "Te amo. \nDe una forma que no cabe en las palabras ni en el tiempo; te amo como se ama aquello que le da sentido al universo, como se abraza la vida después de haberla esperado eternamente. \nEres el latido que sostiene mi existencia, la certeza en medio del caos, el milagro que convirtió mis días comunes en eternidades compartidas. \nSi el destino me diera a elegir mil veces, \nen cada vida y en cada mundo, volvería a encontrarte, volvería a \nelegirte, \nporque mi alma reconoce la tuya como su hogar, desde antes de saber siquiera qué era el amor."
+    },
+    {
+        fecha: "24 Marzo 2026",
+        titulo: "Donde aprendí a escribirtee, Kenya",
+        imagen: "imagenes/laguna.jpg",
+        contenido: "Hoy volví a la Laguna Náinari, no donde empezó lo que siento por ti, sino donde aprendí a darle forma. \nPorque amarte... \nya lo hacía desde antes, pero fue aquí donde tu nombre se volvió poema entre mis manos. \nAquí entendí que no bastaba con sentir, que necesitaba escribirte para no desbordarme en silencio. \nY aunque no estés conmigo, aunque la distancia tenga la última palabra, hay algo que no cambia: \nsigues viviendo en mí. \nPor que este lugar me recuerda que mi amor por ti, se transformó en poesía también; aquí encontró su voz. \nY desde entonces, Kenya, te llevo en cada palabra, en cada pensamiento, en cada parte de mí que aprendió a amarte sin medida... \nincluso sin tenerte."
     }
 ];
 
