@@ -256,6 +256,12 @@ const poemas = [
         titulo: "Donde aprendí a escribirte, Kenya",
         imagen: "imagenes/laguna.jpg",
         contenido: "Hoy volví a la Laguna Náinari, no donde empezó lo que siento por ti, sino donde aprendí a darle forma. \nPorque amarte... \nya lo hacía desde antes, pero fue aquí donde tu nombre se volvió poema entre mis manos. \nAquí entendí que no bastaba con sentir, que necesitaba escribirte para no desbordarme en silencio. \nY aunque no estés conmigo, aunque la distancia tenga la última palabra, hay algo que no cambia: \nsigues viviendo en mí. \nPor que este lugar me recuerda que mi amor por ti, se transformó en poesía también; aquí encontró su voz. \nY desde entonces, Kenya, te llevo en cada palabra, en cada pensamiento, en cada parte de mí que aprendió a amarte sin medida... \nincluso sin tenerte."
+    },
+    {
+        fecha: "25 Marzo 2026",
+        titulo: "Cuando te miro",
+        imagen: "imagenes/reloj.png",
+        contenido: "El tiempo se detiene cuando te miro. \nNo hay reloj ni segundos que pueden medir lo que siento en ese instante. \nTus ojos y tu sonrisa son el único lugar \donde quiero quedarme atrapado."
     }
 ];
 
