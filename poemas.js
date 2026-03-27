@@ -262,6 +262,12 @@ const poemas = [
         titulo: "Cuando te miro",
         imagen: "imagenes/reloj.png",
         contenido: "El tiempo se detiene cuando te miro. \nNo hay reloj ni segundos que pueden medir lo que siento en ese instante. \nTus ojos y tu sonrisa son el único lugar \donde quiero quedarme atrapado."
+    },
+    {
+        fecha: "26 Marzo 2026",
+        titulo: "Donde habitas",
+        imagen: "imagenes/piano.png",
+        contenido: "Habitas en tres lugares simultáneamente. \nHabitas en mis pensamientos, \nde día y de noche. \nHabitas en lo más tierno de mí \ny en aquello que enciende la piel. \nHabitas en mi corazón, \nen cada latido y en cada suspiro, \nen los más suaves \ny en los que lo hacen galopar a mil por hora. \nHabitas allá, \nen cualquier parte del mundo... \ny aun así \na todos lados vas conmigo. "
     }
 ];
 
