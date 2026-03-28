@@ -268,6 +268,12 @@ const poemas = [
         titulo: "Donde habitas",
         imagen: "imagenes/piano.png",
         contenido: "Habitas en tres lugares simultáneamente. \nHabitas en mis pensamientos, \nde día y de noche. \nHabitas en lo más tierno de mí \ny en aquello que enciende la piel. \nHabitas en mi corazón, \nen cada latido y en cada suspiro, \nen los más suaves \ny en los que lo hacen galopar a mil por hora. \nHabitas allá, \nen cualquier parte del mundo... \ny aun así \na todos lados vas conmigo. "
+    },
+    {
+        fecha: "27 Marzo 2026",
+        titulo: "Más que todo",
+        imagen: "imagenes/luna4.jpg",
+        contenido: "Te describo como la autora \nde mi sonrisa antes de dormir, \ncomo la protagonista de mis sueños, \ncomo la inspiración del poeta al escribir. \n\nTe describo como la mayor de mis bendiciones, \ncomo la responsable de andar risueño, \ncomo la persona perfecta para dedicarle canciones. \n\nTe describo como la prioridad de mi vida, \ncomo la motivación para alcanzar mis sueños, \ncomo la fuerza para enfrentar los días. \n\nTe describo como la dueña \nde la mirada más hermosa, \ncomo mi golpe de suerte, \ncomo mi luna, mi corazón, mi vida. \n\nTe describo de esta manera, \nporque decir que eres mi todo \nsería muy flojo."
     }
 ];
 
