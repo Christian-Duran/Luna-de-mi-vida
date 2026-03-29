@@ -274,6 +274,12 @@ const poemas = [
         titulo: "Más que todo",
         imagen: "imagenes/luna4.jpg",
         contenido: "Te describo como la autora \nde mi sonrisa antes de dormir, \ncomo la protagonista de mis sueños, \ncomo la inspiración del poeta al escribir. \n\nTe describo como la mayor de mis bendiciones, \ncomo la responsable de andar risueño, \ncomo la persona perfecta para dedicarle canciones. \n\nTe describo como la prioridad de mi vida, \ncomo la motivación para alcanzar mis sueños, \ncomo la fuerza para enfrentar los días. \n\nTe describo como la dueña \nde la mirada más hermosa, \ncomo mi golpe de suerte, \ncomo mi luna, mi corazón, mi vida. \n\nTe describo de esta manera, \nporque decir que eres mi todo \nsería muy flojo."
+    },
+    {
+        fecha: "28 Marzo 2026",
+        titulo: "Eres arte",
+        imagen: "imagenes/postrarse.png",
+        contenido: "Creo que lo que hace al arte tan hermoso \nes que algunas partes se resisten a ser explicadas. \nSimplemente están destinadas a sentirse. \n\nAsí es como me siento contigo. \n\nNo puedo describir por completo \nla forma en que haces latir mi corazón, \nni puedo reunir las palabras correctas \npara medir su profundidad. \n\nLo único que sé \nes que es una sensación \ncon la que deseo despertar \ncada día de mi vida. \n\nEres arte ante mis ojos, \nno algo para ser analizado \no comprendido por completo, \nsino algo ante lo que postrarse \ncallado, de asombro. \n\nY como la obra maestra más bella, \ncuanto más te miro, \nmás me doy cuenta \nde que siempre hay algo nuevo \nde lo que enamorarse."
     }
 ];
 
