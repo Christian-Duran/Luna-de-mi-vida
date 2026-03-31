@@ -286,6 +286,12 @@ const poemas = [
         titulo: "La excepción",
         imagen: "imagenes/fugaz.gif",
         contenido: "Dicen que lo bello siempre es fugaz, \nque las cosas hermosas \nduran poco. \n\nPero tú eres la excepción \nque desafía todas esas reglas. \n\nSigues ahí, iluminando mi vida, \ny no hay nada más eterno que eso."
+    },
+    {
+        fecha: "30 Marzo 2026",
+        titulo: "Me haces falta",
+        imagen: "imagenes/monohojas.png",
+        contenido: "Me hace falta verte, \nescucharte reír, \nnotar que volteas la mirada \nporque estás sonrojada. \nMe hace falta sentir tus manos \naferradas a mi espalda, \nnotar cómo me aprietas, \nconfirmar que me extrañabas. \nMe hace falta verte, \nrodearme de tu aroma, \nsentirme en casa."
     }
 ];
 
