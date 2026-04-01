@@ -292,6 +292,12 @@ const poemas = [
         titulo: "Me haces falta",
         imagen: "imagenes/monohojas.png",
         contenido: "Me hace falta verte, \nescucharte reír, \nnotar que volteas la mirada \nporque estás sonrojada. \nMe hace falta sentir tus manos \naferradas a mi espalda, \nnotar cómo me aprietas, \nconfirmar que me extrañabas. \nMe hace falta verte, \nrodearme de tu aroma, \nsentirme en casa."
+    },
+    {
+        fecha: "31 Marzo 2026",
+        titulo: "Qué significa amar",
+        imagen: "imagenes/rosadefuego.png",
+        contenido: "¿Qué significa amar? \n\nAmarte es recoger cada partícula de polvo estelar \ny colocarla sobre tu cabeza, \npara que te conviertas en la belleza coronada, \nla reina de todas ellas. \n\nAmarte es adorar los detalles en ti, \nenvidiar la brisa cuando te toca, \nponerse celoso de la noche cuando te envuelve, \nresentir al tiempo mismo cuando avanza \ny no estás en mis brazos. \n\nPorque este amor me consume, \ny no lo cambiaría por nada. \n\nNo te amo para ser amado a cambio, \nte amo para probar que algo sagrado \naún existe en mis venas."
     }
 ];
 
