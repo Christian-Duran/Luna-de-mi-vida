@@ -298,6 +298,12 @@ const poemas = [
         titulo: "Qué significa amar",
         imagen: "imagenes/rosadefuego.png",
         contenido: "¿Qué significa amar? \n\nAmarte es recoger cada partícula de polvo estelar \ny colocarla sobre tu cabeza, \npara que te conviertas en la belleza coronada, \nla reina de todas ellas. \n\nAmarte es adorar los detalles en ti, \nenvidiar la brisa cuando te toca, \nponerse celoso de la noche cuando te envuelve, \nresentir al tiempo mismo cuando avanza \ny no estás en mis brazos. \n\nPorque este amor me consume, \ny no lo cambiaría por nada. \n\nNo te amo para ser amado a cambio, \nte amo para probar que algo sagrado \naún existe en mis venas."
+    },
+    {
+        fecha: "1 Abril 2026",
+        titulo: "Escribirte es respirar",
+        imagen: "imagenes/cuarto.png",
+        contenido: "Sigo escribiendo sobre ti \ncomo si la tinta pudiera acercarte más que mis brazos, \ncomo si las palabras fueran a abrirse paso, \ncomo si pudiera reescribir el final en algo más dulce. \n\nSigo escribiendo sobre ti \nporque este amor en mi corazón \nes demasiado grande para que lo contengan las costillas, \ndemasiado grande para decirlo en una frase, \ndemasiado pesado para permanecer encerrado dentro. \n\nSigo escribiendo sobre ti \ncomo si intentara llenar un vacío, \ncomo si me engañara pensando que no estás ausente, \ncomo si las letras pudieran traerte a mí. \n\nSigo escribiendo sobre ti \nhasta que tu nombre se convierta \nen un lenguaje que solo yo pueda entender, \nhasta que los papeles se conviertan \nen un cementerio de todos las cosas que nunca dije. \n\nY seguiré escribiendo sobre ti \nporque el silencio me mata, \nporque escribir sobre ti es como respirar. \nNo puedo obligarme a parar."
     }
 ];
 
