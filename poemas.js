@@ -304,6 +304,12 @@ const poemas = [
         titulo: "Escribirte es respirar",
         imagen: "imagenes/cuarto.png",
         contenido: "Sigo escribiendo sobre ti \ncomo si la tinta pudiera acercarte más que mis brazos, \ncomo si las palabras fueran a abrirse paso, \ncomo si pudiera reescribir el final en algo más dulce. \n\nSigo escribiendo sobre ti \nporque este amor en mi corazón \nes demasiado grande para que lo contengan las costillas, \ndemasiado grande para decirlo en una frase, \ndemasiado pesado para permanecer encerrado dentro. \n\nSigo escribiendo sobre ti \ncomo si intentara llenar un vacío, \ncomo si me engañara pensando que no estás ausente, \ncomo si las letras pudieran traerte a mí. \n\nSigo escribiendo sobre ti \nhasta que tu nombre se convierta \nen un lenguaje que solo yo pueda entender, \nhasta que los papeles se conviertan \nen un cementerio de todos las cosas que nunca dije. \n\nY seguiré escribiendo sobre ti \nporque el silencio me mata, \nporque escribir sobre ti es como respirar. \nNo puedo obligarme a parar."
+    },
+    {
+        fecha: "2 Abril 2026",
+        titulo: "Incluso con miedo",
+        imagen: "imagenes/manosunidas.png",
+        contenido: "A veces me asusta cuánto te quiero, \nno porque dude de ti, \nsino porque lo que se cuida \ntambién se teme perder. \n\nPero incluso en ese miedo te elijo: \nelijo confiar, \nelijo quedarme, \nelijo creer que lo que nace desde el amor \nno se va con facilidad. \n\nY si algún día el miedo aparece, \nno será para alejarnos, \nsino para recordarme \nque vale la pena cuidarte \nmientras estés aquí."
     }
 ];
 
