@@ -310,6 +310,12 @@ const poemas = [
         titulo: "Incluso con miedo",
         imagen: "imagenes/manosunidas.png",
         contenido: "A veces me asusta cuánto te quiero, \nno porque dude de ti, \nsino porque lo que se cuida \ntambién se teme perder. \n\nPero incluso en ese miedo te elijo: \nelijo confiar, \nelijo quedarme, \nelijo creer que lo que nace desde el amor \nno se va con facilidad. \n\nY si algún día el miedo aparece, \nno será para alejarnos, \nsino para recordarme \nque vale la pena cuidarte \nmientras estés aquí."
+    },
+    {
+        fecha: "3 Abril 2026",
+        titulo: "Siempre tendrás un hogar",
+        imagen: "imagenes/luzencendida.png",
+        contenido: "No importa a dónde vayas, \nno importa cuán lejos te lleve el camino, \nsiempre tendrás un lugar en mi corazón \nque es tu hogar, \nun espacio tallado suavemente dentro de mí. \n\nY dejaré las luces encendidas, \ncálidas y esperando mientras estés lejos. \n\nLa distancia puede extenderse entre nosotros, \nel tiempo puede poner a prubea lo que siento, \npero los que construí dentro de mí \nno se desvanece. \n\nPuede que recorras el mundo, \ny aun así siempre habrá una luz encendida \npara ti aquí."
     }
 ];
 
