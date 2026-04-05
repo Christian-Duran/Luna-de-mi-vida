@@ -316,6 +316,12 @@ const poemas = [
         titulo: "Siempre tendrás un hogar",
         imagen: "imagenes/luzencendida.png",
         contenido: "No importa a dónde vayas, \nno importa cuán lejos te lleve el camino, \nsiempre tendrás un lugar en mi corazón \nque es tu hogar, \nun espacio tallado suavemente dentro de mí. \n\nY dejaré las luces encendidas, \ncálidas y esperando mientras estés lejos. \n\nLa distancia puede extenderse entre nosotros, \nel tiempo puede poner a prubea lo que siento, \npero los que construí dentro de mí \nno se desvanece. \n\nPuede que recorras el mundo, \ny aun así siempre habrá una luz encendida \npara ti aquí."
+    },
+    {
+        fecha: "4 Abril 2026",
+        titulo: "Ganas de ti, sin prisa",
+        imagen: "imagenes/besarmano.png",
+        contenido: "Tengo ganas de ti... \naunque no sé si tengo más ganas \nde besarte hasta el alma \no de tomarte de la mano con calma, \ncomo si no tuviera prisa \npor escuchar tu risa. \n\nSupongo que al final prefiero ambas, \npues no quiero solo escucharte cantar \no tenerte para una noche, \nsino elegirte todos los días \npor el resto de mi vida."
     }
 ];
 
