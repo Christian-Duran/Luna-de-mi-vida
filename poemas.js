@@ -322,6 +322,12 @@ const poemas = [
         titulo: "Ganas de ti, sin prisa",
         imagen: "imagenes/besarmano.png",
         contenido: "Tengo ganas de ti... \naunque no sé si tengo más ganas \nde besarte hasta el alma \no de tomarte de la mano con calma, \ncomo si no tuviera prisa \npor escuchar tu risa. \n\nSupongo que al final prefiero ambas, \npues no quiero solo escucharte cantar \no tenerte para una noche, \nsino elegirte todos los días \npor el resto de mi vida."
+    },
+    {
+        fecha: "5 Abril 2026",
+        titulo: "Cuando el poeta calla",
+        imagen: "imagenes/poeta.png",
+        contenido: "Hay que ser demasiado musa \no demasiado incendio \npara dejar a un poeta sin palabras, \narrancarle la tinta de la garganta \ny dejarlo balbuceando metáforas \nrotas. \n\nSolo una mujer así, \nmitad relámpago, mitad misterio, \npuede convertir el verso en ceniza \ny obligar al poeta a callar, \nporque a veces el silencio \nes la única forma honesta \nde nombrar lo que quema."
     }
 ];
 
