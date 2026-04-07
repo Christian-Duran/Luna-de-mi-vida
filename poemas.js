@@ -328,6 +328,12 @@ const poemas = [
         titulo: "Cuando el poeta calla",
         imagen: "imagenes/poeta.png",
         contenido: "Hay que ser demasiado musa \no demasiado incendio \npara dejar a un poeta sin palabras, \narrancarle la tinta de la garganta \ny dejarlo balbuceando metáforas \nrotas. \n\nSolo una mujer así, \nmitad relámpago, mitad misterio, \npuede convertir el verso en ceniza \ny obligar al poeta a callar, \nporque a veces el silencio \nes la única forma honesta \nde nombrar lo que quema."
+    },
+    {
+        fecha: "6 Abril 2026",
+        titulo: "El día que volví a creer",
+        imagen: "imagenes/girasol.jpeg",
+        contenido: "El día que me enamoré de ti, \nsentí algo inexplicable; \naun así, \nharé mi mayor esfuerzo por ponerle palabras \na lo que provocaste en mí, \nen mi alma, \nen mi piel, \nen mis ganas. \n\nEl día que me enamoré de ti, \nhice las paces con la vida, \nllegué a casa, me aventé a la cama \ny grité de alegría; \nlos vecinos debieron pensar: \n\"revivió ese loco.\" \n\nEl día que me enamoré de ti, \nrecordé que había prometido no volver a hacerlo, \nque estaba retirado del amor, \npero ya era tarde: \nya me encontraba pensándote, soñándote, \nhablándole de ti a todo el mundo."
     }
 ];
 
