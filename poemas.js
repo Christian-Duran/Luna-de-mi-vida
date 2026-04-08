@@ -334,6 +334,12 @@ const poemas = [
         titulo: "El día que volví a creer",
         imagen: "imagenes/girasol.jpeg",
         contenido: "El día que me enamoré de ti, \nsentí algo inexplicable; \naun así, \nharé mi mayor esfuerzo por ponerle palabras \na lo que provocaste en mí, \nen mi alma, \nen mi piel, \nen mis ganas. \n\nEl día que me enamoré de ti, \nhice las paces con la vida, \nllegué a casa, me aventé a la cama \ny grité de alegría; \nlos vecinos debieron pensar: \n\"revivió ese loco.\" \n\nEl día que me enamoré de ti, \nrecordé que había prometido no volver a hacerlo, \nque estaba retirado del amor, \npero ya era tarde: \nya me encontraba pensándote, soñándote, \nhablándole de ti a todo el mundo."
+    },
+    {
+        fecha: "7 Abril 2026",
+        titulo: "En tus manos",
+        imagen: "imagenes/entusmanos.png",
+        contenido: "Te entrego mi corazón, porque ya no \npuedo contenerlo más. \nMe está volviendo loco \nescucharlo golpear contra las paredes de \nmi pecho cada vez que pienso en ti. \n\nQuiere traicionarme, rogando por \nabrir mi pecho, \npor liberarse, por correr hacia ti, \npor descansar donde siempre ha pertenecido. \n\nHa soñado con tus manos, \ncon el calor que ofrecerían, \ncon la forma en que lo acunarían como \nalgo sagrado, \nalgo que vale la pena conservar. \n\nAsí que te doy mi corazón. \nPero sé gentil con él. \nSosténlo como si te perteneciera, \nporque en cada latido escucharás que \nsusurra tu nombre. \n\nY si escuchas con atención, \noirás todo el amor que nunca supe \ncómo expresar."
     }
 ];
 
