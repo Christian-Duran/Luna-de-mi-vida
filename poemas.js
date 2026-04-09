@@ -340,6 +340,12 @@ const poemas = [
         titulo: "En tus manos",
         imagen: "imagenes/entusmanos.png",
         contenido: "Te entrego mi corazón, porque ya no \npuedo contenerlo más. \nMe está volviendo loco \nescucharlo golpear contra las paredes de \nmi pecho cada vez que pienso en ti. \n\nQuiere traicionarme, rogando por \nabrir mi pecho, \npor liberarse, por correr hacia ti, \npor descansar donde siempre ha pertenecido. \n\nHa soñado con tus manos, \ncon el calor que ofrecerían, \ncon la forma en que lo acunarían como \nalgo sagrado, \nalgo que vale la pena conservar. \n\nAsí que te doy mi corazón. \nPero sé gentil con él. \nSosténlo como si te perteneciera, \nporque en cada latido escucharás que \nsusurra tu nombre. \n\nY si escuchas con atención, \noirás todo el amor que nunca supe \ncómo expresar."
+    },
+    {
+        fecha: "8 Abril 2026",
+        titulo: "Lo mejor de mí",
+        imagen: "imagenes/cielo.jpg",
+        contenido: "Tú sacas lo mejor de mí, incluso en los \ndías en que me siento menos capaz. \nEres quien despierta la versión más valiente \ny auténtica de mi ser. \nPor eso te amo, no solo por lo que eres, \nsino por lo que logras hacer nacer en mí."
     }
 ];
 
