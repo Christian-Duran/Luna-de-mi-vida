@@ -346,6 +346,12 @@ const poemas = [
         titulo: "Lo mejor de mí",
         imagen: "imagenes/cielo.jpg",
         contenido: "Tú sacas lo mejor de mí, incluso en los \ndías en que me siento menos capaz. \nEres quien despierta la versión más valiente \ny auténtica de mi ser. \nPor eso te amo, no solo por lo que eres, \nsino por lo que logras hacer nacer en mí."
+    },
+    {
+        fecha: "9 Abril 2026",
+        titulo: "No estoy borracho",
+        imagen: "imagenes/copa.png",
+        contenido: "¿Estás borracho? \n\nSoy un poeta ahogado en dulce ilusión, \nsolo un escritor que perdió el \ncontacto con la realidad \nen el momento en que tu nombre \nllenó mis páginas. \n\nEntraste en la habitación, y llené mi \ncopa hasta el borde. \nSaboreé las metáforas como si no \nhubiera un mañana. \nBebí hasta saciarme, hasta que este \namor me embriagó, \nme hizo ver belleza en todas las cosas. \n\nCómo tus grietas, tus fallas, tus \nimperfecciones \nse convirtieron en arte para mí. \n\nNo estoy borracho. Pero si balbuceo \nmis verdades, \nsi vacilo entre mis sueños, \nsi empiezo a confundir tus ojos con galaxias, \nperdóname. \n\nEso es justo lo que el amor hace \ncon aquellos de nosotros lo suficientemente \ntontos como para escribirlo."
     }
 ];
 
