@@ -352,6 +352,12 @@ const poemas = [
         titulo: "No estoy borracho",
         imagen: "imagenes/copa.png",
         contenido: "¿Estás borracho? \n\nSoy un poeta ahogado en dulce ilusión, \nsolo un escritor que perdió el \ncontacto con la realidad \nen el momento en que tu nombre \nllenó mis páginas. \n\nEntraste en la habitación, y llené mi \ncopa hasta el borde. \nSaboreé las metáforas como si no \nhubiera un mañana. \nBebí hasta saciarme, hasta que este \namor me embriagó, \nme hizo ver belleza en todas las cosas. \n\nCómo tus grietas, tus fallas, tus \nimperfecciones \nse convirtieron en arte para mí. \n\nNo estoy borracho. Pero si balbuceo \nmis verdades, \nsi vacilo entre mis sueños, \nsi empiezo a confundir tus ojos con galaxias, \nperdóname. \n\nEso es justo lo que el amor hace \ncon aquellos de nosotros lo suficientemente \ntontos como para escribirlo."
+    },
+    {
+        fecha: "10 Abril 2026",
+        titulo: "Donde nadie había llegado",
+        imagen: "imagenes/alma.png",
+        contenido: "Hay quienes aman con la piel, \npero contigo fue distinto. \nTú llegaste a un lugar \nmucho más profundo: mi alma. \nPor eso sé que nunca podré compararte con \nnadie más, porque lo tuyo fue tocar donde \nnadie había llegado."
     }
 ];
 
