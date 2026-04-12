@@ -358,6 +358,12 @@ const poemas = [
         titulo: "Donde nadie había llegado",
         imagen: "imagenes/alma.png",
         contenido: "Hay quienes aman con la piel, \npero contigo fue distinto. \nTú llegaste a un lugar \nmucho más profundo: mi alma. \nPor eso sé que nunca podré compararte con \nnadie más, porque lo tuyo fue tocar donde \nnadie había llegado."
+    },
+    {
+        fecha: "11 Abril 2026",
+        titulo: "Lo más sincero que tengo",
+        imagen: "imagenes/sincero.png",
+        contenido: "Mi mente no descansa, siempre \nencuentra un motivo para \npensarte. \nY aunque no pueda prometerte el mundo \nentero, lo que sí puedo darte es lo más \nsincero que tengo: mi corazón, que late solo \npor ti. Ese será siempre mi mejor regalo."
     }
 ];
 
