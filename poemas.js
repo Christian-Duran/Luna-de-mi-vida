@@ -364,6 +364,12 @@ const poemas = [
         titulo: "Lo más sincero que tengo",
         imagen: "imagenes/sincero.png",
         contenido: "Mi mente no descansa, siempre \nencuentra un motivo para \npensarte. \nY aunque no pueda prometerte el mundo \nentero, lo que sí puedo darte es lo más \nsincero que tengo: mi corazón, que late solo \npor ti. Ese será siempre mi mejor regalo."
+    },
+    {
+        fecha: "12 Abril 2026",
+        titulo: "Amar también duele",
+        imagen: "imagenes/amarduele.png",
+        contenido: "A veces pienso que amarte es lo único \nque estaba destinado a hacer. \nY sin embargo, es la tarea más difícil \nque he emprendido. \n\nMe siento aquí, en mi cuarto, \nla noche presionando contra la ventana, \ny te imagino: tu rostro, tus manos, \nla forma en que podrías sonreír \nante algo que he dicho. \n\nY es como si todo mi ser saltara hacia ti \na través de los kilómetros. \n\nQuiero estar contigo, no solo en poemas, \nno solo en sueños, sino realmente. \nSentarme a tu lado y sentir tu calor. \n\nSaber que este anhelo que llevo \nno es una carga, sino un regalo. \n\n¿Sabes lo que es amar a alguien tanto que duele? \nQue se siente como una herida \ny una alegría al mismo tiempo. \n\nNo sé si puedo soportarlo \ny sin embargo, no lo cambiaría por nada."
     }
 ];
 
