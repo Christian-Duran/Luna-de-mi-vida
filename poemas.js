@@ -370,6 +370,12 @@ const poemas = [
         titulo: "Amar también duele",
         imagen: "imagenes/amarduele.png",
         contenido: "A veces pienso que amarte es lo único \nque estaba destinado a hacer. \nY sin embargo, es la tarea más difícil \nque he emprendido. \n\nMe siento aquí, en mi cuarto, \nla noche presionando contra la ventana, \ny te imagino: tu rostro, tus manos, \nla forma en que podrías sonreír \nante algo que he dicho. \n\nY es como si todo mi ser saltara hacia ti \na través de los kilómetros. \n\nQuiero estar contigo, no solo en poemas, \nno solo en sueños, sino realmente. \nSentarme a tu lado y sentir tu calor. \n\nSaber que este anhelo que llevo \nno es una carga, sino un regalo. \n\n¿Sabes lo que es amar a alguien tanto que duele? \nQue se siente como una herida \ny una alegría al mismo tiempo. \n\nNo sé si puedo soportarlo \ny sin embargo, no lo cambiaría por nada."
+    },
+    {
+        fecha: "13 Abril 2026",
+        titulo: "Lo que siento, aunque no baste",
+        imagen: "imagenes/megustas.jpg",
+        contenido: "Dices que no eres la persona correcta, \nque merezco a alguien mejor, \ny con una calma tan racional \ndecides por mi corazón \ncomo si el amor pudiera elegirse con la cabeza. \n\nMe gustas... \ny no creo poder borrar tan fácil \nlo que siento por ti. \n\nPorque cuando pienso en ti, \nmi corazón se llena de alegría, \naunque sé que, por más que me gustes, \nsiempre estarás esperando a alguien más. \n\nQuisiera ser tan racional como tú, \ncerrarle los ojos a mi corazón, \nvendarle los oídos \npara que no escuche tu nombre en cada latido. \n\nPero no sé cómo callar este amor \nque insiste en quedarse. \n\nDime entonces qué hago \ncon todo lo que siento por ti, \ncon este amor que vive en mi pecho \ncomo una luz que no quiere apagarse. \n\nMe gustas... \npero, aun sabiendo lo que siento por ti, \nno eres capaz de amarme. \n\nTe amo, Kenya."
     }
 ];
 
