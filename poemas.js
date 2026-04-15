@@ -376,6 +376,12 @@ const poemas = [
         titulo: "Lo que siento, aunque no baste",
         imagen: "imagenes/megustas.jpg",
         contenido: "Dices que no eres la persona correcta, \nque merezco a alguien mejor, \ny con una calma tan racional \ndecides por mi corazón \ncomo si el amor pudiera elegirse con la cabeza. \n\nMe gustas... \ny no creo poder borrar tan fácil \nlo que siento por ti. \n\nPorque cuando pienso en ti, \nmi corazón se llena de alegría, \naunque sé que, por más que me gustes, \nsiempre estarás esperando a alguien más. \n\nQuisiera ser tan racional como tú, \ncerrarle los ojos a mi corazón, \nvendarle los oídos \npara que no escuche tu nombre en cada latido. \n\nPero no sé cómo callar este amor \nque insiste en quedarse. \n\nDime entonces qué hago \ncon todo lo que siento por ti, \ncon este amor que vive en mi pecho \ncomo una luz que no quiere apagarse. \n\nMe gustas... \npero, aun sabiendo lo que siento por ti, \nno eres capaz de amarme. \n\nTe amo, Kenya."
+    },
+    {
+        fecha: "14 Abril 2026",
+        titulo: "En todo momento",
+        imagen: "imagenes/atardecermaza.png",
+        contenido: "No existe amanecer, atardecer ni anochecer \nen el que no te piense. \n\nNo hay segundos, minutos ni horas \nen los que no te quiera. \n\nNo hay días, semanas ni años \nen los que no me guarde, \nesperando el momento de entregarte todo."
     }
 ];
 
