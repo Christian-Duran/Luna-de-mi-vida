@@ -382,6 +382,12 @@ const poemas = [
         titulo: "En todo momento",
         imagen: "imagenes/atardecermaza.png",
         contenido: "No existe amanecer, atardecer ni anochecer \nen el que no te piense. \n\nNo hay segundos, minutos ni horas \nen los que no te quiera. \n\nNo hay días, semanas ni años \nen los que no me guarde, \nesperando el momento de entregarte todo."
+    },
+    {
+        fecha: "15 Abril 2026",
+        titulo: "Donde aún te encuentro",
+        imagen: "imagenes/soñeluna.png",
+        contenido: "Anoche volví a soñar contigo. \nQué lindo es poder conversar una vez más contigo. \nPorque, aunque sea por un pequeño momento, \nsé que fue genuino. \nPorque, al final del día, \nextraño estar contigo. \nY el único lugar donde eso sucede \nes cuando cierro los ojos \ny lo único que veo \nes un mundo alterno contigo."
     }
 ];
 
