@@ -388,6 +388,12 @@ const poemas = [
         titulo: "Donde aún te encuentro",
         imagen: "imagenes/soñeluna.png",
         contenido: "Anoche volví a soñar contigo. \nQué lindo es poder conversar una vez más contigo. \nPorque, aunque sea por un pequeño momento, \nsé que fue genuino. \nPorque, al final del día, \nextraño estar contigo. \nY el único lugar donde eso sucede \nes cuando cierro los ojos \ny lo único que veo \nes un mundo alterno contigo."
+    },
+    {
+        fecha: "16 Abril 2026",
+        titulo: "Desde que te conocí",
+        imagen: "imagenes/pensarte.png",
+        contenido: "El otro día me di cuenta de que \nestaba pensando en ti, y me empecé \na preguntar cuánto tiempo\n llevaba pensando en ti. \nY entonces entendí que, desde que te conocí, \nno ha pasado un solo día \nsin que piense en ti."
     }
 ];
 
