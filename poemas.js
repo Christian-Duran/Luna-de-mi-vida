@@ -394,6 +394,12 @@ const poemas = [
         titulo: "Desde que te conocí",
         imagen: "imagenes/pensarte.png",
         contenido: "El otro día me di cuenta de que \nestaba pensando en ti, y me empecé \na preguntar cuánto tiempo\n llevaba pensando en ti. \nY entonces entendí que, desde que te conocí, \nno ha pasado un solo día \nsin que piense en ti."
+    },
+    {
+        fecha: "17 Abril 2026",
+        titulo: "Como una canción",
+        imagen: "imagenes/canción.png",
+        contenido: "Quiero que sepas que me enamoré de ti \nno por tu físico, \nsino por lo que nació en mí, \npor ese sentimiento hermoso que despertaste. \n\nMe enamoré de ti por la forma en que eres, \npor tu manera de ser, \nesa que me enamora más y más. \n\nConocerte fue como escuchar una canción por primera vez \ny saber que sería mi favorita, \nde la que no me cansaría de escuchar \nuna y otra vez, \nporque siempre seguirás siendo hermosa para mí."
     }
 ];
 
