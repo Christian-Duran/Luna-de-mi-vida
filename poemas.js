@@ -400,6 +400,12 @@ const poemas = [
         titulo: "Como una canción",
         imagen: "imagenes/canción.png",
         contenido: "Quiero que sepas que me enamoré de ti \nno por tu físico, \nsino por lo que nació en mí, \npor ese sentimiento hermoso que despertaste. \n\nMe enamoré de ti por la forma en que eres, \npor tu manera de ser, \nesa que me enamora más y más. \n\nConocerte fue como escuchar una canción por primera vez \ny saber que sería mi favorita, \nde la que no me cansaría de escuchar \nuna y otra vez, \nporque siempre seguirás siendo hermosa para mí."
+    },
+    {
+        fecha:"18 Abril 2026",
+        titulo: "No me da miedo",
+        imagen: "imagenes/tren.png",
+        contenido: "No me da miedo decir que te quiero, \nque estoy enamorado de tus labios, \nde los tres lunares alienados en tu pecho, \ndel color de tus ojos. \n\nNo me da miedo decir que anhelo verte, \nque cuando estoy rodeado de gente, \nquisiera que fueras tú \na quien tuviera al frente. \n\nNo me da miedo decir que te quiero: \npuedes salir corriendo ahora mismo \nde mi vida \no directo a abrazarme, \n\ny no temo aceptar \nque me encantaría \nque hagas lo segundo."
     }
 ];
 
