@@ -406,6 +406,12 @@ const poemas = [
         titulo: "No me da miedo",
         imagen: "imagenes/tren.png",
         contenido: "No me da miedo decir que te quiero, \nque estoy enamorado de tus labios, \nde los tres lunares alienados en tu pecho, \ndel color de tus ojos. \n\nNo me da miedo decir que anhelo verte, \nque cuando estoy rodeado de gente, \nquisiera que fueras tú \na quien tuviera al frente. \n\nNo me da miedo decir que te quiero: \npuedes salir corriendo ahora mismo \nde mi vida \no directo a abrazarme, \n\ny no temo aceptar \nque me encantaría \nque hagas lo segundo."
+    },
+    {
+        fecha: "19 Abril 2026",
+        titulo: "Si no es contigo",
+        imagen: "imagenes/miradas.png",
+        contenido: "Mi luna, hoy quiero decirte algo: \nSé que a veces es difícil entenderlo, \npero puedo decirte con absoluta certeza \nque no hay nada ni nadie \nque logre cambiar el amor que te tengo. \n\nPorque, mi luna... \nsi no es contigo, \nno es con nadie."
     }
 ];
 
