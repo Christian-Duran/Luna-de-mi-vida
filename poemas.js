@@ -412,6 +412,12 @@ const poemas = [
         titulo: "Si no es contigo",
         imagen: "imagenes/miradas.png",
         contenido: "Mi luna, hoy quiero decirte algo: \nSé que a veces es difícil entenderlo, \npero puedo decirte con absoluta certeza \nque no hay nada ni nadie \nque logre cambiar el amor que te tengo. \n\nPorque, mi luna... \nsi no es contigo, \nno es con nadie."
+    },
+    {
+        fecha: "20 Abril 2026",
+        titulo: "Lo que no dije",
+        imagen: "imagenes/liriodeluz.png",
+        contenido: "El simple hecho de despedirme sin poder \ndecir todo lo que sentía \nme dejó un nudo eterno en la garganta. \n\nContigo conocí una conexión \nque jamás había sentido; \nfuiste la primera persona \nde la que realmente me enamoré. \n\nCada día contigo me hacía feliz, \ny en tan poco tiempo te volviste \nuna de las presencias más importantes \nde mi vida. \n\nPor eso duele tanto aceptar \nque te fuiste por mi culpa. \n\nEsa certeza me quiebra, \nme enoja conmigo mismo \ny me recuerda todo lo que perdí \npor callar lo que debí decirte."
     }
 ];
 
