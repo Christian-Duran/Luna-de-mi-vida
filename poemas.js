@@ -418,6 +418,12 @@ const poemas = [
         titulo: "Lo que no dije",
         imagen: "imagenes/liriodeluz.png",
         contenido: "El simple hecho de despedirme sin poder \ndecir todo lo que sentía \nme dejó un nudo eterno en la garganta. \n\nContigo conocí una conexión \nque jamás había sentido; \nfuiste la primera persona \nde la que realmente me enamoré. \n\nCada día contigo me hacía feliz, \ny en tan poco tiempo te volviste \nuna de las presencias más importantes \nde mi vida. \n\nPor eso duele tanto aceptar \nque te fuiste por mi culpa. \n\nEsa certeza me quiebra, \nme enoja conmigo mismo \ny me recuerda todo lo que perdí \npor callar lo que debí decirte."
+    },
+    {
+        fecha: "21 Abril 2026",
+        titulo: "Mi lugar",
+        imagen: "imagenes/espera.png",
+        contenido: "He conocido ciudades enteras \ny paisajes que te quitan el aliento, \npero ninguno me hace sentir \nlo que siento cuando estoy contigo. \n\nNo importa el código postal, \nni la calle, ni el número de la casa: \nel único lugar donde pertenezco \nes a tu lado."
     }
 ];
 
