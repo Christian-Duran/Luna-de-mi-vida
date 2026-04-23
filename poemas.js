@@ -424,6 +424,12 @@ const poemas = [
         titulo: "Mi lugar",
         imagen: "imagenes/espera.png",
         contenido: "He conocido ciudades enteras \ny paisajes que te quitan el aliento, \npero ninguno me hace sentir \nlo que siento cuando estoy contigo. \n\nNo importa el código postal, \nni la calle, ni el número de la casa: \nel único lugar donde pertenezco \nes a tu lado."
+    },
+    {
+        fecha: "22 Abril 2026",
+        titulo: "Te elijo",
+        imagen: "imagenes/you1.png",
+        contenido: "Quiero que seas tú, porque haces la diferencia. \nVas conmigo, aunque no estés; \nocupas cada espacio de mi mente, \ny, aunque no te vea, te llevo en el corazón. \n\nNo sé qué nos espera, \nsolo le pido a Dios que los tiempos mejoren. \n\nA la distancia, mi alma te elige. \nEres insustituible."
     }
 ];
 
