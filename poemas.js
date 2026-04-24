@@ -430,6 +430,12 @@ const poemas = [
         titulo: "Te elijo",
         imagen: "imagenes/you1.png",
         contenido: "Quiero que seas tú, porque haces la diferencia. \nVas conmigo, aunque no estés; \nocupas cada espacio de mi mente, \ny, aunque no te vea, te llevo en el corazón. \n\nNo sé qué nos espera, \nsolo le pido a Dios que los tiempos mejoren. \n\nA la distancia, mi alma te elige. \nEres insustituible."
+    },
+    {
+        fecha: "23 Abril 2026",
+        titulo: "En otra vida",
+        imagen: "imagenes/extrañoluna.png",
+        contenido: "Solo tú y yo sabemos \nlo mucho que te amo \ny lo imposible que es poder estar juntos. \n\nOjalá, en otra vida, \npueda despertar en tu pecho \ny caminar a tu lado."
     }
 ];
 
