@@ -436,6 +436,18 @@ const poemas = [
         titulo: "En otra vida",
         imagen: "imagenes/extrañoluna.png",
         contenido: "Solo tú y yo sabemos \nlo mucho que te amo \ny lo imposible que es poder estar juntos. \n\nOjalá, en otra vida, \npueda despertar en tu pecho \ny caminar a tu lado."
+    },
+    {
+        fecha: "24 Abril 2026",
+        titulo: "Ojalá vuelvas",
+        imagen: "imagenes/ojala.png",
+        contenido: "Ojalá... \n\nOjalá sientas la misma desesperación, \nla misma impotencia y esas ganas de volver conmigo, \ntal como yo las siento. \n\nOjalá este sentimiento siga siendo recíproco, \npase a todo lo que ha pasado. \n\nOjalá, vida mía, que en algúm momento el destino \nnos dé la dicha de construir lo nuestro. \n\nOjalá que esa vez podamos desatar nuestro amor \ny entregarnos todo lo que nos prometimos \ny merecemos. \n\nAquí sigo... \ny aquí seguiré."
+    },
+    {
+        fecha: "25 Abril 2026",
+        titulo: "Lo que soy, aun así",
+        imagen: "imagenes/ruinas.png",
+        contenido: "Fui a enamorarme de ti sabiendo \nque es un riesgo. \n\nFui a enamorarme de ti sabiendo \nel millón de errores que me forman. \n\nFui a enamorarme de ti sabiendo \nque el tiempo no está en mis manos, \nsino en mis miedos. \n\nY, sin embargo, aquí estoy, \nofreciéndote mis ruinas como si \nfueran un templo, \ny no porque te necesite, \nsino porque te amo."
     }
 ];
 
