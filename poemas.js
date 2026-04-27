@@ -448,6 +448,12 @@ const poemas = [
         titulo: "Lo que soy, aun así",
         imagen: "imagenes/ruinas.png",
         contenido: "Fui a enamorarme de ti sabiendo \nque es un riesgo. \n\nFui a enamorarme de ti sabiendo \nel millón de errores que me forman. \n\nFui a enamorarme de ti sabiendo \nque el tiempo no está en mis manos, \nsino en mis miedos. \n\nY, sin embargo, aquí estoy, \nofreciéndote mis ruinas como si \nfueran un templo, \ny no porque te necesite, \nsino porque te amo."
+    },
+    {
+        fecha: "26 Abril 2026",
+        titulo: "Urgencia de ti",
+        imagen: "imagenes/sombras.png",
+        contenido: "Tengo una urgencia contigo, una urgencia \nde abrazarte y besarte que no sé explicar. \n\nNecesito repirarte cerca, tan cerca \ncomo cuando cierro los ojos \ny te veo frente a mí. \n\nEspero sepas comprenderme, \nporque es la primera vez \nque alguien me atraviesa así el corazón."
     }
 ];
 
