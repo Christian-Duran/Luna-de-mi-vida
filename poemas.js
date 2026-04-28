@@ -454,6 +454,12 @@ const poemas = [
         titulo: "Urgencia de ti",
         imagen: "imagenes/sombras.png",
         contenido: "Tengo una urgencia contigo, una urgencia \nde abrazarte y besarte que no sé explicar. \n\nNecesito repirarte cerca, tan cerca \ncomo cuando cierro los ojos \ny te veo frente a mí. \n\nEspero sepas comprenderme, \nporque es la primera vez \nque alguien me atraviesa así el corazón."
+    },
+    {
+        fecha: "27 Abril 2026",
+        titulo: "Todos los días",
+        imagen: "imagenes/diaynoche.png",
+        contenido: "Me seguiré enamorando de ti \ntodos los días, \nporque no puedo evitar \nsonreír cuando pienso en ti; \nporque cuando te miro, \nconfirmo que eres todo lo que quiero \nen mi vida."
     }
 ];
 
